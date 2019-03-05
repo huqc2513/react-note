@@ -13,7 +13,6 @@ import Home from './pages/home';
 import Detail from './pages/detail';  
 
 const BasicRoute = () => {
-
   return (
     <div>
       <Router>
